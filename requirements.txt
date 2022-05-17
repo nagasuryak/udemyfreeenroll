@@ -1,0 +1,8 @@
+aiohttp[speedups]
+beautifulsoup4
+ruamel.yaml
+requests
+cloudscraper
+webdriver-manager
+selenium
+price-parser
